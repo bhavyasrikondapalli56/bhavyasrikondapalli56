@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://bhavya-sri-portfolio.netlify.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/kondapallibhavyasri/kondapallibhavyasri/main/profile.JPEG" width="150" style="border-radius: 50%; border: 3px solid #2F80ED;" alt="Bhavya Sri Kondapalli"/>
+<img src="./profile.JPEG" width="150" style="border-radius: 50%; border: 3px solid #2F80ED;" alt="Bhavya Sri Kondapalli"/>
 </a>
 
 # Bhavya Sri Kondapalli
